@@ -1,0 +1,11 @@
+body {
+    /*font-weight: bold;*/
+
+    background-color: #F9FAFB;
+    /*background-size: cover;*/
+    /*background: url(/images/background.jpg) no-repeat fixed center center;*/
+}
+
+.default-line{
+    margin-bottom: 5px;
+}
