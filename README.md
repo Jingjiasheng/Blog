@@ -27,6 +27,7 @@
 - 上一步命令不可省略，项目中的静态资源并没有配置项目名到路径中，所以只能使用域名直接访问
 - 重启 tomcat ，访问 [localhost:8080](http://localhost:8080) 即可访问项目
 - 其他操作请直接访问 [原作者项目](https://github.com/DuanJiaNing/BlogSystem)
+- [war包下载](./war/blog-system-1.0-SNAPSHOT.war)
 
 License
 ============
